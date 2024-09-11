@@ -1,0 +1,3 @@
+[submodule "BackEnd/prototype_recommend_server"]
+	path = BackEnd/prototype_recommend_server
+	url = https://github.com/Attraction-Recommend/AttractionAdvisor_BackEnd_Prototype.git
