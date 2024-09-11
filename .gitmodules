@@ -1,3 +1,6 @@
 [submodule "BackEnd/prototype_recommend_server"]
 	path = BackEnd/prototype_recommend_server
 	url = https://github.com/Attraction-Recommend/AttractionAdvisor_BackEnd_Prototype.git
+[submodule "AI/ncf_model_server"]
+	path = AI/ncf_model_server
+	url = https://github.com/Attraction-Recommend/AttractionAdvisor_AI_RecommendServer.git
